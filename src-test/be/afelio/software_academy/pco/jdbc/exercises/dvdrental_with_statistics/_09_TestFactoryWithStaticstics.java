@@ -1,6 +1,5 @@
 package be.afelio.software_academy.pco.jdbc.exercises.dvdrental_with_statistics;
 
-import be.afelio.software_academy.pco.jdbc.exercises.dvdrental.DvdRentalJdbcRepository;
 import be.afelio.software_academy.pco.jdbc.exercises.dvdrental.DvdRentalJdbcRepositoryWithStatistics;
 import be.afelio.software_academy.pco.jdbc.exercises.dvdrental.Factory;
 import org.junit.jupiter.api.Test;
